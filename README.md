@@ -4,6 +4,11 @@
 A simple Task Management application built with Django as the backend and React as the frontend.
 This application allows users to create, read, update, and delete tasks efficiently in a single-page interface.
 
+![image](https://github.com/user-attachments/assets/0cbda6a4-00c7-45cf-86c0-99fa00678b8e)
+![image](https://github.com/user-attachments/assets/a23feb81-527b-42de-b74e-1cb794abe7bb)
+
+
+
 ## Table of Contents
 
 - [Features](#features)
