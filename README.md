@@ -17,6 +17,9 @@ This application allows users to create, read, update, and delete tasks efficien
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 
+#superuser
+id = admin
+pass = admin
 ## Features
 
 - Add new tasks with title and description.
